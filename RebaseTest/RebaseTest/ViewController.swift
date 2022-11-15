@@ -22,6 +22,10 @@ class ViewController: UIViewController {
     func test3() {
         
     }
+    
+    func test4() {
+        
+    }
 
 
 }
